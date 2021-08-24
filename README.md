@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marco19maidana
 - 👀 I’m interested in data science and not in data engineering
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on economy and geoinformationsystems
+- 💞️ I’m looking to collaborate on geodata and geoinformationsystems
 - 📫 How to reach me ...via Mail on martin_030@live.de
 
 <!---
